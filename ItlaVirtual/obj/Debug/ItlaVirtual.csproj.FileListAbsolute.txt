@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\ItlaVirtual\bin\Debug\ItlaVirtual.exe.config
+C:\Users\pc\source\repos\ItlaVirtual\bin\Debug\ItlaVirtual.exe
+C:\Users\pc\source\repos\ItlaVirtual\bin\Debug\ItlaVirtual.pdb
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.Properties.Resources.resources
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.exe
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.pdb
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.portal.resources
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.Form1.resources
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.Form2.resources
+C:\Users\pc\source\repos\ItlaVirtual\obj\Debug\ItlaVirtual.PanelControl.resources
